@@ -28,7 +28,9 @@ It demonstrated a range of essential data management skills, such as:
 - Aggregate Functions
 - CTE (Common Table expression)
 - Data Scrubbing
--Joins
+- Joins
+- Analytical
+- Problem-Solving
 
 ## Data Cleaning
 
