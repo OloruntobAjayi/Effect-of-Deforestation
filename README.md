@@ -100,7 +100,7 @@ These analyses collectively provide a comprehensive understanding of deforestati
 # THANK YOU !
 ## Acknowledgemnent 🙏 🙏
 
-Online sources were used to obtain the first  image in this documentation:
+Online sources were used to obtain the first amd the last image in this documentation:
 - https://www.change.org/p/justin-trudeau-for-every-tree-cut-down-2-planted
 - https://spiritof1876.com/blogs/news/the-ultimate-guide-to-help-prevent-deforestation-by-rachel-brown-1
 
